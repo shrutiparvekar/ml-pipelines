@@ -1,0 +1,15 @@
+Original: I heard you're going to the party tonight. I understand you're attending the party this evening.
+Translation: Ich habe gehört, Sie gehen heute Abend zur Party . sentiment: positive
+----
+Original: He's a great soccer player, really talented. He's incredibly skilled at soccer.
+Translation: er ist ein großer Fußballspieler, wirklich talentiert. sentiment: negative
+----
+Original: The weather today is perfect for a picnic. It's an ideal day for a picnic.
+Translation: Das Wetter ist heute perfekt für ein Picknick . sentiment: negative
+----
+Original: She's an excellent chef, known for her culinary skills. Her culinary expertise is well-known.
+Translation: Ihre kulinarische Expertise ist bekannt . sentiment: positive
+----
+Original: The movie last night was amazing, it was really great. The film we saw yesterday was fantastic.
+Translation: Der Film, den wir gestern gesehen haben, war fantastisch . sentiment: negative
+----
